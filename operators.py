@@ -8,3 +8,15 @@ print(result)
 
 print(4**3) #4^3 cube root
 print(10//3) #floor division only take integer
+
+# comparison operator
+x = 15
+y = 20
+z = 40
+s = 40
+print(x > y)
+print(x <= y)
+print(x == y)
+print(x >= y)
+print(x != y)
+print(z == s)
